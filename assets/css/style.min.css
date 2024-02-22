@@ -2,5 +2,7 @@
  * The minified version for go live
  */
 
-
+body * {
+	background: blue;
+}
 
