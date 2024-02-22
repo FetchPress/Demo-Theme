@@ -2,6 +2,6 @@
  * The minified version for go live
  */
 
-body {
+body * {
 	background-color: blue;
 }
