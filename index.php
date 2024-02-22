@@ -18,7 +18,6 @@
 get_header();
 	do_action( 'wp_basis_index_before_content' );
 	?>
-	<h1>Hello World!!!</h1>
 	<?php
 	// Whether current WordPress query has results to loop over
 	if ( have_posts() ) {
