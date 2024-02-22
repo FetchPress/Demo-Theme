@@ -16,7 +16,7 @@
  */
 
 get_header();
-	
+	<h1>Hello World!!!</h1>
 	do_action( 'wp_basis_index_before_content' );
 	
 	// Whether current WordPress query has results to loop over
