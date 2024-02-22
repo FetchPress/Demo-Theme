@@ -2,3 +2,6 @@
  * The minified version for go live
  */
 
+body * {
+	background-color: purple;
+}
