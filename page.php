@@ -13,7 +13,9 @@ get_header();
 	
 	do_action( 'wp_basis_page_before_content' );
 	?>
-	
+
+	<h1>Hello World!!!</h1>
+
 	<div id="primary" class="site-content">
 		<div id="content" role="main">
 		
