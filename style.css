@@ -18,3 +18,7 @@
  * License:     GPL 2+
  * License URI: license.txt
  */
+
+body {
+	background-color: red;
+}
